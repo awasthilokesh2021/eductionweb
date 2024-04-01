@@ -1,0 +1,7 @@
+.Backgrnd{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://png.pngtree.com/thumb_back/fh260/background/20230715/pngtree-d-illustration-of-laptop-furnished-with-educational-materials-signifying-online-education-image_3861968.jpg), no-repeat;
+    background-size: cover;
+    background-position: center;
+}  
